@@ -1,0 +1,2 @@
+https://www.kaggle.com/omkargurav/face-mask-dataset
+https://www.kaggle.com/aneerbanchakraborty/face-mask-detection-https://github.com/TheSSJ2612/Real-Time-Medical-Mask-Detection/releases/tag/v0.1
