@@ -3,3 +3,4 @@ MBv2 frozen 1.0: 0.9932 test
 MobileNet V3 full train: 99.76 test
 MobileNet V2 full train no preprocess: 99.58 test
 MobileNet V2 full train with preprocess: 99.85 test
+regety004 full 1.0, test 99.96, no aug
